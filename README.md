@@ -1,4 +1,9 @@
-## [CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/) 2022 Solutions
+# [CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/) 2022 Solutions
+
+
+
+## Course description
+An introduction to Python programming language. Learn how to read and write code as well as how to test and "debug" it. Designed for students with and without prior programming experience who'd like to learn Python specifically. Learn about functions, arguments, and return values; variables and types; conditionals and Boolean expressions; loops; and objects and methods. Plus exceptions, file I/O, and libraries. Every week you are assigned multiple assignments and you complete the course by making an final project.
 
 ### **Table of Contents**
 ### [Week 0: Functions](https://cs50.harvard.edu/python/2022/weeks/0/)
@@ -62,3 +67,6 @@
 
 ### [Week 9: Et Cetera](https://cs50.harvard.edu/python/2022/weeks/9/)
 - [Final Project]()
+
+
+*Please note that this repository is for storing my projects and files from Harvard University's CS50P course. It is not meant for sharing answers or encouraging academic dishonesty. If you are currently enrolled, please complete the assignments independently and refer to the course materials.*
